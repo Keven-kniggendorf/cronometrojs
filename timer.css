@@ -1,0 +1,32 @@
+body{
+    height: 50px;
+    cursor: pointer;
+    margin-top: 30px;
+    background-color: navy;
+}
+
+section{
+    text-align: center;
+    border-radius: 20px ;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    box-shadow: 10px 10px 3px ;
+    
+}
+
+button{
+    padding: 20px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.relogio{
+font-size: 3em;
+}
+
+.pausar{
+color: red;
+}
